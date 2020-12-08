@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Collin Loertscher Newb @clurch
 
 # THANKS
 
